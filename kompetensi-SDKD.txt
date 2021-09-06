@@ -1,0 +1,5 @@
+kompetensi SDKD
+a.komunikasi daring sinkron
+b.komunikasi daring asinkron
+c.Github
+d.Git
