@@ -9,3 +9,4 @@ c.Github
 - Membuat file baru
 - Membuat commit
 d.Git
+- Belum
